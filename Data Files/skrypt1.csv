@@ -1,0 +1,2 @@
+lastnname,addres,city,state,password,password2,phone,ssn,state,username,zipcode,error_msg
+zarski,adres,do zajec,e,admin,admin,987654321,143591,asd,mateuszz,456,First name is required.
